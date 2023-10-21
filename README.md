@@ -8,7 +8,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <p>
 <img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-![Next.js Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg)
 <img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </p>
