@@ -8,9 +8,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <p>
 <img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <body>
-    <i class="devicon-nextjs-plain"></i>
-  </body>
+:rocket: This project is built with Next.js.
 <img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </p>
