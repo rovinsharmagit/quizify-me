@@ -5,10 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img h=300 w=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<i h=300 w=300 class="devicon-nextjs-original-wordmark"></i>
-<img h=300 w=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img h=300 w=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<i height=300 width=300 class="devicon-nextjs-original-wordmark"></i>
+<img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </p>
 
 ----
