@@ -7,9 +7,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-<img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img height=300 width=300 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img height=200 width=200 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img height=200 width=200 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img height=200 width=200 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </p>
 
 ----
