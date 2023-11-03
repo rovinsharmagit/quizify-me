@@ -1,6 +1,8 @@
 
 ## Quizify-Me
 ----
+[![wakatime](https://wakatime.com/badge/user/018b52ca-833c-449a-8a52-a35427011708/project/018b6704-a6a2-4be5-80ee-622105d4cef0.svg)](https://wakatime.com/badge/user/018b52ca-833c-449a-8a52-a35427011708/project/018b6704-a6a2-4be5-80ee-622105d4cef0)
+----
 ### 🛠 &nbsp;Languages and Tools :
 
 <p align="center">
