@@ -3,6 +3,7 @@ import Link from 'next/link';
 import React from 'react'
 import SigninButton from './SigninButton';
 import UserAccNav from './UserAccNav';
+import { ThemeToggle } from './ThemeToggle';
 
 type Props = {};
 
@@ -13,17 +14,20 @@ const Navbar = async (props: Props) => {
         <div className="flex items-center justify-between h-full gap-2 px-8 mx-auto max-w-7xl">
             {/* Logo */}
             <Link href= '/' className="flex items-center gap-2">
-            <p className="rounded-lg border-2 border-b-4 border-r-4 border-black 
+            <p className="rounded-lg border-2 ml-1 border-b-4 border-r-4 border-black 
                px-2 py-1 text-xl font-bold transition-all hover:-translate-y-[2px] md:block dark:border-white">
                 Quizify
             </p>
             </Link>
+            <div className="flex items-center">
+            <ThemeToggle className="m-3" />
             <div className="flex items-center">
                 {session?.user ? (
                     <UserAccNav user={session.user} />
                 ) : (
                     <SigninButton text="Sign In" />
                 )}  
+            </div>
             </div>
         </div>
     </div>
