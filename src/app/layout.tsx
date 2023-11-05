@@ -20,10 +20,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={cn(inter.className, "antialiased min-h-screen pt-16")}>
+      <body className={cn(inter.className, "antialiased min-h-screen margin: '0 auto' pt-16")}>
         <Providers>
-        <Navbar />
-        {children}
+          <Navbar />
+          {children}
         </Providers>
         </body>
     </html>
